@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "650000000000000000000010",
+    "hero_name": "Iron Man",
+    "real_name": "Tony Stark",
+    "species": "Human",
+    "affiliations": ["Avengers", "S.H.I.E.L.D."],
+    "is_active": false,
+    "stats": { "strength": 85, "intelligence": 100, "combat_skills": 75 },
+    "debut_movie_id": "650000000000000000000001"
+  },
+  {
+    "_id": "650000000000000000000011",
+    "hero_name": "Thor",
+    "real_name": "Thor Odinson",
+    "species": "Asgardian",
+    "affiliations": ["Avengers", "Revengers"],
+    "is_active": true,
+    "stats": { "strength": 95, "intelligence": 60, "combat_skills": 90 },
+    "debut_movie_id": "650000000000000000000002"
+  },
+  {
+    "_id": "650000000000000000000012",
+    "hero_name": "Black Widow",
+    "real_name": "Natasha Romanoff",
+    "species": "Human",
+    "affiliations": ["Avengers", "S.H.I.E.L.D."],
+    "is_active": false,
+    "stats": { "strength": 40, "intelligence": 85, "combat_skills": 95 },
+    "debut_movie_id": "650000000000000000000001"
+  },
+  {
+    "_id": "650000000000000000000013",
+    "hero_name": "Star-Lord",
+    "real_name": "Peter Quill",
+    "species": "Human/Celestial",
+    "affiliations": ["Guardians of the Galaxy", "Ravagers"],
+    "is_active": true,
+    "stats": { "strength": 55, "intelligence": 70, "combat_skills": 80 },
+    "debut_movie_id": "650000000000000000000004"
+  },
+  {
+    "_id": "650000000000000000000014",
+    "hero_name": "Groot",
+    "real_name": "Groot",
+    "species": "Flora colossus",
+    "affiliations": ["Guardians of the Galaxy"],
+    "is_active": true,
+    "stats": { "strength": 85, "intelligence": 40, "combat_skills": 65 },
+    "debut_movie_id": "650000000000000000000004"
+  },
+  {
+    "_id": "650000000000000000000015",
+    "hero_name": "Black Panther",
+    "real_name": "T'Challa",
+    "species": "Human",
+    "affiliations": ["Avengers", "Wakanda"],
+    "is_active": false,
+    "stats": { "strength": 80, "intelligence": 85, "combat_skills": 95 },
+    "debut_movie_id": "650000000000000000000006"
+  },
+  {
+    "_id": "650000000000000000000016",
+    "hero_name": "Spider-Man",
+    "real_name": "Peter Parker",
+    "species": "Human Mutate",
+    "affiliations": ["Avengers"],
+    "is_active": true,
+    "stats": { "strength": 85, "intelligence": 90, "combat_skills": 85 },
+    "debut_movie_id": "650000000000000000000007"
+  },
+  {
+    "_id": "650000000000000000000017",
+    "hero_name": "Captain America",
+    "real_name": "Steve Rogers",
+    "species": "Human",
+    "affiliations": ["Avengers", "S.H.I.E.L.D.", "Howling Commandos"],
+    "is_active": false,
+    "stats": { "strength": 80, "intelligence": 75, "combat_skills": 95 },
+    "debut_movie_id": "650000000000000000000008"
+  },
+  {
+    "_id": "650000000000000000000018",
+    "hero_name": "Thanos",
+    "real_name": "Thanos",
+    "species": "Titan",
+    "affiliations": ["Black Order"],
+    "is_active": false,
+    "stats": { "strength": 100, "intelligence": 95, "combat_skills": 95 },
+    "debut_movie_id": "650000000000000000000003"
+  }
+]

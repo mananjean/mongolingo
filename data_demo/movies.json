@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "650000000000000000000001",
+    "title": "Iron Man",
+    "phase": 1,
+    "release_year": 2008,
+    "box_office_millions": 585,
+    "director": "Jon Favreau",
+    "villains": ["Obadiah Stane"]
+  },
+  {
+    "_id": "650000000000000000000002",
+    "title": "The Avengers",
+    "phase": 1,
+    "release_year": 2012,
+    "box_office_millions": 1518,
+    "director": "Joss Whedon",
+    "villains": ["Loki", "Chitauri"]
+  },
+  {
+    "_id": "650000000000000000000003",
+    "title": "Avengers: Infinity War",
+    "phase": 3,
+    "release_year": 2018,
+    "box_office_millions": 2048,
+    "director": "Anthony et Joe Russo",
+    "villains": ["Thanos", "Proxima Midnight", "Ebony Maw"]
+  },
+  {
+    "_id": "650000000000000000000004",
+    "title": "Guardians of the Galaxy",
+    "phase": 2,
+    "release_year": 2014,
+    "box_office_millions": 773,
+    "director": "James Gunn",
+    "villains": ["Ronan the Accuser", "Nebula"]
+  },
+  {
+    "_id": "650000000000000000000005",
+    "title": "Thor: Ragnarok",
+    "phase": 3,
+    "release_year": 2017,
+    "box_office_millions": 854,
+    "director": "Taika Waititi",
+    "villains": ["Hela", "Surtur"]
+  },
+  {
+    "_id": "650000000000000000000006",
+    "title": "Black Panther",
+    "phase": 3,
+    "release_year": 2018,
+    "box_office_millions": 1347,
+    "director": "Ryan Coogler",
+    "villains": ["Killmonger", "Ulysses Klaue"]
+  },
+  {
+    "_id": "650000000000000000000007",
+    "title": "Spider-Man: No Way Home",
+    "phase": 4,
+    "release_year": 2021,
+    "box_office_millions": 1921,
+    "director": "Jon Watts",
+    "villains": ["Green Goblin", "Doc Ock", "Electro"]
+  },
+  {
+    "_id": "650000000000000000000008",
+    "title": "Captain America: The Winter Soldier",
+    "phase": 2,
+    "release_year": 2014,
+    "box_office_millions": 714,
+    "director": "Anthony et Joe Russo",
+    "villains": ["Winter Soldier", "Alexander Pierce"]
+  }
+]

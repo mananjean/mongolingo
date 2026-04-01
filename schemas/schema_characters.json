@@ -1,0 +1,18 @@
+{
+  "collection_name": "characters",
+  "description": "Contient les héros et personnages clés du MCU.",
+  "schema": {
+    "_id": "ObjectId",
+    "hero_name": "String (ex: 'Iron Man')",
+    "real_name": "String (ex: 'Tony Stark')",
+    "species": "String (ex: 'Human')",
+    "affiliations": "Array of Strings (ex: ['Avengers', 'S.H.I.E.L.D.'])",
+    "is_active": "Boolean",
+    "stats": {
+      "strength": "Number (sur 100)",
+      "intelligence": "Number (sur 100)",
+      "combat_skills": "Number (sur 100)"
+    },
+    "debut_movie_id": "ObjectId (Référence vers _id de la collection movies)"
+  }
+}

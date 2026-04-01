@@ -1,0 +1,13 @@
+{
+  "collection_name": "movies",
+  "description": "Contient les informations sur les films du MCU.",
+  "schema": {
+    "_id": "ObjectId",
+    "title": "String (ex: 'Avengers: Infinity War')",
+    "phase": "Number (ex: 3)",
+    "release_year": "Number (ex: 2018)",
+    "box_office_millions": "Number (ex: 2048)",
+    "director": "String (ex: 'Anthony et Joe Russo')",
+    "villains": "Array of Strings (ex: ['Thanos', 'Proxima Midnight'])"
+  }
+}
